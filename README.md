@@ -1,6 +1,8 @@
 # suli-mini-seminar-2023
 Intro to Python - CROCUS Air Quality Investigation SULI Mini-Seminar 2023
 
+[![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/jrobrien91/suli-mini-seminar-2023/main)
+
 ## Notebooks:  
 1. An introduction to python  
 2. The available open-source resources of the python community  
