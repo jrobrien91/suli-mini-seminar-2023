@@ -1,0 +1,26 @@
+name: suli-seminar
+channels:
+  - conda-forge
+  - defaults
+  - pyviz
+dependencies:
+  - arm_pyart
+  - act-atmos
+  - matplotlib
+  - jupyterlab
+  - cartopy
+  - numpy
+  - dask
+  - distributed
+  - xarray
+  - pandas<2.0
+  - fiona
+  - hvplot
+  - imageio
+  - siphon
+  - pip
+  - pip:
+    - -r doc-requirements.txt
+    - ambient-api
+    - sage-data-client
+    - nexradaws
