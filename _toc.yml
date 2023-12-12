@@ -1,0 +1,9 @@
+format: jb-book
+root: README
+parts:
+  - caption: Introduction to Python
+    chapters:
+      - glob: notebooks/air-quality/intro-python-crocus.ipynb
+  - caption: CROCUS Air Quality Investigation
+    chapters:
+      - glob: notebooks/air-quality/crocus-air-quality.ipynb
