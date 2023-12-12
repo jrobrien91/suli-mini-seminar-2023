@@ -1,6 +1,6 @@
 title: SULI Mini-Seminar 2023 - CROCUS Air Quality Investigation
 author: Joe O'Brien
-logo: /images/CROCUS_Logo.svg
+logo: images/CROCUS_Logo.svg
 execute:
   execute_notebooks: cache
   timeout: 600
