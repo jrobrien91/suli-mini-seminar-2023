@@ -2,7 +2,7 @@ title: SULI Mini-Seminar 2023 - CROCUS Air Quality Investigation
 author: Joe O'Brien
 logo: images/CROCUS_Logo.svg
 execute:
-  execute_notebooks: cache
+  execute_notebooks: "off"
   timeout: 600
   allow_errors: False # cells with expected failures must set the `raises-exception` cell tag
 parse:
