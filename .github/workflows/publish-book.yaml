@@ -12,6 +12,8 @@ jobs:
     uses: ProjectPythia/cookbook-actions/.github/workflows/build-book.yaml@main
     with:
       environment_name: suli-seminar
+      environment_file: environment.yml
+      path_to_notebooks: ./
 
   deploy:
     needs: build
