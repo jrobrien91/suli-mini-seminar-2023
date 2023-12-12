@@ -7,7 +7,7 @@ Intro to Python - CROCUS Air Quality Investigation SULI Mini-Seminar 2023
 3. Investigation of the CROCUS Air Quality Dataset for a Canadian WildFire Smoke Event
 
 ## Running the Notebooks
-You can either run the notebook using [Binder](https://mybinder.org/) or on your local machine.
+You can either run the notebook using [Binder](https://binderhub.readthedocs.io/en/latest/#) or on your local machine.
 
 ### Running the Jupyter
 
