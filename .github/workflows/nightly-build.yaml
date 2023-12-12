@@ -1,9 +1,11 @@
 name: nightly-build
 
 on:
+  # Trigger the workflow on push to main branch
+  push:
+    branches:
+      - main
   workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * *" # Daily “At 00:00”
 
 jobs:
   build:
