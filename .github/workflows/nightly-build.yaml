@@ -3,7 +3,7 @@ name: nightly-build
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *' # Hourly “At :00”
+    - cron: '0 0 * * *' # Hourly “At :00”
 
 jobs:
   build:
