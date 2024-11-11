@@ -3,4 +3,4 @@ root: README
 parts:
   - caption: Introduction to Python
     chapters:
-      - glob: notebooks/air-quality/*
+      - glob: notebooks/urban_canyon/*
