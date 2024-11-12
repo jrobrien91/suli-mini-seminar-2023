@@ -1,4 +1,7 @@
-<img src="images/ANL_RGB-01.png" alt="thumbnail" width="300"/>
+<p float="left">
+  <img src="images/ANL_RGB-01.png" width="300" />
+  <img src="CROCUS_Logo.svg" width="300" /> 
+</p>
 
 # Student Undergraduate Laboratory Internships (SULI) > Mini Semester - CROCUS Investigations
 
