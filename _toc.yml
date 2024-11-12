@@ -3,4 +3,10 @@ root: README
 parts:
   - caption: Introduction to Python
     chapters:
-      - glob: notebooks/urban_canyon/*
+      - file: notebooks/python-tutorial/*
+  - caption: CROCUS Air Quality Investigation
+    chapters:
+      - file: notebooks/air-quality/*
+  - caption: CROCUS Land Surface Interactions Investigation
+    chapters:
+      - file: notebooks/urban_canyon/*
