@@ -1,9 +1,9 @@
-<p float="left">
-  <img src="images/ANL_RGB-01.png" width="300" />
+<p float="center">
+  <img src="ANL_RGB-01.png" width="300" />
   <img src="CROCUS_Logo.svg" width="300" /> 
 </p>
 
-# Student Undergraduate Laboratory Internships (SULI) > Mini Semester - CROCUS Investigations
+# Student Undergraduate Laboratory Internships (SULI) - Mini Semester - CROCUS Investigations
 
 [![nightly-build](https://github.com/jrobrien91/suli-mini-semester/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/jrobrien91/suli-mini-semester/actions/workflows/nightly-build.yaml)
 [![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/jrobrien91/suli-mini-seminar-2023/main)
