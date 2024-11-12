@@ -1,4 +1,4 @@
-<p float="left">
+<p float="center">
   <img src="ANL_RGB-01.png" width="300" />
   <img src="CROCUS_Logo.svg" width="300" /> 
 </p>
