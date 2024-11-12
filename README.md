@@ -1,7 +1,6 @@
 <img src="images/ANL_RGB-01.png" alt="thumbnail" width="300"/>
 
-# Student Undergraduate Laboratory Internships (SULI) - Mini Semester 2024 - CROCUS Investigations
-Intro to Python - CROCUS Air Quality Investigation SULI Mini-Seminar 2023
+# Student Undergraduate Laboratory Internships (SULI) > Mini Semester - CROCUS Investigations
 
 [![nightly-build](https://github.com/jrobrien91/suli-mini-semester/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/jrobrien91/suli-mini-semester/actions/workflows/nightly-build.yaml)
 [![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/jrobrien91/suli-mini-seminar-2023/main)
